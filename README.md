@@ -32,3 +32,13 @@ Use `go run` and include the [port flag](#configuration):
 or, if you have `$GOPATH/bin` in your `$PATH`, you can use the shorthand:
 
 * `tiny-http-echo -port=YOUR_PORT_GOES_HERE`
+
+## Example
+
+Using 5 panes in tmux with 1 client (top left), 1 test server(bottom left), 3 tiny-http-echo servers.
+
+![](https://i.imgur.com/SEHWC7x.png)
+
+![](https://i.imgur.com/dX40o0R.png)
+
+![](https://i.imgur.com/Uu8kI4h.png)
