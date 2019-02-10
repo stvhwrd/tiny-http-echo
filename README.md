@@ -27,4 +27,4 @@ There is only one configuration option, taken as a runtime flag:
 
 Include [port flag](#configuration):
 
-* `go run tiny-http-echo -port=YOUR_PORT_GOES_HERE`
+* `go run $GOPATH/github.com/stvhwrd/tiny-http-echo -port=YOUR_PORT_GOES_HERE`
