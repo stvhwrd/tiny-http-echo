@@ -1,7 +1,8 @@
 # tiny-http-echo
-Minimal HTTP server that locally echoes the requests it receives
 
-This program can be useful in debugging HTTP clients and server components of distributed systems.
+A minimal Go HTTP server that locally echoes the requests it receives.
+
+This program can be useful in debugging HTTP clients and/or server components of distributed systems.
 
 ---
 
