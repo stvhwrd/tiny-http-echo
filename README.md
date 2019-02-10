@@ -9,11 +9,11 @@ This program can be useful in debugging HTTP clients and server components of di
 
 Using 5 panes in tmux with 1 client (top left), 1 test server(bottom left), 3 tiny-http-echo servers.
 
-![](https://i.imgur.com/SEHWC7x.png)
+![](https://i.imgur.com/6u5HCiq.png)
 
-![](https://i.imgur.com/dX40o0R.png)
+![](https://i.imgur.com/nYjCa77.png)
 
-![](https://i.imgur.com/Uu8kI4h.png)
+![](https://i.imgur.com/KGHBOPT.png)
 
 ## Installation
 
